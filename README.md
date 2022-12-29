@@ -1,7 +1,7 @@
 # ReportingPipelineDemo
 
 
-## clickhouse tables 
+## clickhouse tables
 
 ```sql
 CREATE TABLE my_action
